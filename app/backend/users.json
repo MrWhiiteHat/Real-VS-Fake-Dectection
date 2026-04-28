@@ -13,5 +13,10 @@
         "email": "admin@realfake.com",
         "full_name": "Admin User",
         "hashed_password": "$2b$12$d9wq0J9LS0wU.3Mn1PaRFOD5SSy2rIcwfeXYV7phznoyuIltH88au"
+    },
+    "anisha.980sahu@gmail.com": {
+        "email": "anisha.980sahu@gmail.com",
+        "full_name": "ANISHA",
+        "hashed_password": "$2b$12$uWS67CK/MJhtrMPyCAoO7.aGXFZB3bTJLnotbZKHCGblgaSVAt662"
     }
 }
